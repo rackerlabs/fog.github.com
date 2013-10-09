@@ -84,9 +84,8 @@ Valid keys are as follows:
     <tr><td>private_key_path</td><td></td></tr>
     <tr><td>public_key_path</td><td></td></tr>
     <tr><td>rackspace_api_key</td><td>Rackspace API key</td></tr>
-    <tr><td>rackspace_cdn_ssl</td><td></td></tr>
-    <tr><td>rackspace_servicenet</td><td></td></tr>
     <tr><td>rackspace_username</td><td> Rackpace username</td></tr>
+    <tr><td>rackspace_queues_client_id</td><td>Queue ID to be used by Fog::Rackspace::Queues</td></tr>
     <tr><td>stormondemand_password</td><td></td></tr>
     <tr><td>stormondemand_username</td><td></td></tr>
     <tr><td>terremark_password</td><td></td></tr>
